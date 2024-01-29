@@ -1,9 +1,3 @@
 pandas
 streamlit
 plotly
-matplotlib
-seaborn
-numpy
-ipykernel
-warnings
-json
